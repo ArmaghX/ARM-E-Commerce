@@ -1,7 +1,9 @@
+import Product from "./screens/Product";
 import Home from "./screens/Home";
+import ProductList from "./screens/ProductList";
 
 function App() {
-	return <Home />;
+	return <Product />;
 }
 
 export default App;

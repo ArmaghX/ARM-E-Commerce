@@ -23,7 +23,7 @@ const Left = styled.div`
 const Logo = styled.h1``;
 
 const Description = styled.p`
-	margin: 20px 0px;
+	margin: 0px 0px 20px 0px;
 `;
 
 const SocialContainer = styled.div`
