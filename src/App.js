@@ -6,7 +6,7 @@ import Login from "./screens/Login";
 import Cart from "./screens/Cart";
 
 function App() {
-	return <Cart />;
+	return <Home />;
 }
 
 export default App;
